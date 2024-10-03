@@ -1,4 +1,4 @@
-let day = prompt("Enter a day of the week (e.g., 'Monday', 'Tuesday')");
+let day = (e.g., 'Monday', 'Tuesday')");
 
  Using a switch statement to map each day to a specific task
 switch(day) {
