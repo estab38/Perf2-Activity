@@ -1,4 +1,4 @@
-let day = (e.g., 'Monday', 'Tuesday')");
+let day = 'Monday'
 
  Using a switch statement to map each day to a specific task
 switch(day) {
