@@ -1,0 +1,13 @@
+ correct password
+let correctPassword = "Erma19";
+
+ Prompt the user to enter their password
+let password ="Erma 19";
+
+
+do {if (password === correctPassword) 
+    {console.log("Access granted.");} 
+    else 
+    {console.log("Incorrect, try again.");
+    password ="estabillo19";}} 
+    while (password !== correctPassword);
